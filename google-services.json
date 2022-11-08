@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315155757858",
+    "project_id": "genial-broker-365810",
+    "storage_bucket": "genial-broker-365810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315155757858:android:88755521e4570d8e19c37b",
+        "android_client_info": {
+          "package_name": "com.jeppung.googleauthtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315155757858-c4p4805jc2i80fcql3t6oulh29h8juvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnTtejbqkv-OsVzqrzYTojbRCK4Uj2WZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315155757858-c4p4805jc2i80fcql3t6oulh29h8juvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
